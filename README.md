@@ -1,1 +1,1 @@
-# 19173066_pjm_androidapp
+# 19173066_pjm_androi
