@@ -5,7 +5,10 @@
   - OT
 
 ## 2주차
-  - GITHUB 사용법
-    - 사진 업로드 하는 방법
-       <img width="" height="" src="./png/달.jpg"></img>
+  - 2주차 과제
+    - 결과화면
+    <img width="" height="" src="./png/2주차_결과화면.png"></img>
+    - 코드
+    <img width="" height="" src="./png/2주차_코드.png"></img>
+    
   
