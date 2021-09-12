@@ -7,5 +7,5 @@
 ## 2주차
   - GITHUB 사용법
     - 사진 업로드 하는 방법
-       <img width="" height="" src="./png/달.jpg"></img>
+      <img width="" height="" src="./png/달.jpg"></img>
   
