@@ -5,15 +5,15 @@
 
 ## 2주차
   - 2주차 과제
-    - 결과화면 <img width="" height="" src="./png/2주차_결과화면.png"></img>
+    - 결과화면 <img width="150" height="200" src="./png/2주차_결과화면.png"></img>
 
 ## 3주차
   - 3주차 과제
-    - 네이버 결과화면 <img width="" height="" src="./png/3주차_결과화면_네이버.png"></img>
-    - 전화화면 <img width="" height="" src="./png/3주차_결과화면_전화.png"></img>
+    - 네이버 결과화면 <img width="150" height="200" src="./png/3주차_결과화면_네이버.png"></img>
+    - 전화화면 <img width="150" height="200" src="./png/3주차_결과화면_전화.png"></img>
 ## 4주차
   - 아이디어 앱
-   <img width="100" height="100"src"./png/hellotalk.png"></img>
+  <img width="200" height="100" src="./png/hellotalk.png"></img>
    <h6>위에 hellotalk이란 앱은 제가 언어 공부를 하면서 외국인 친구들을 사귀고 싶을 때 많이 사용하는 앱으로
    인스타그램처럼 개인이 올리고 싶은 글이나 사진, 영상 등을 올릴 수 있고
    또 각자의 모국어와 배우고 싶은 언어가 프로필에 나와 있어 언어교환을 할 친구를 찾기에도 편리합니다.
