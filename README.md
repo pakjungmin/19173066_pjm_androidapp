@@ -26,5 +26,9 @@
 
 ## 5주차
   - 결과화면
-   <img width="" height="" src="./png/5주차과제1.png"></img><img width="" height="" src="./png/5주차과제2.png"></img>
+   <img width="100" height="150" src="./png/5주차과제1.png"></img><img width="100" height="150" src="./png/5주차과제2.png"></img>
+
+## 6주차
+  - 결과화면
+   <img width="" height="" src="./png/6주차_결과1.png"></img><img width="" height="" src="./png/6주차_결과2.png"></img>
   
