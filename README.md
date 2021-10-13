@@ -30,5 +30,10 @@
 
 ## 6주차
   - 결과화면
-   <img width="" height="" src="./png/6주차_결과1.png"></img><img width="" height="" src="./png/6주차_결과2.png"></img>
+   <img width="100" height="150" src="./png/6주차_결과1.png"></img><img width="100" height="150" src="./png/6주차_결과2.png"></img>
+
+## 7주차
+  - 결과화면
+   <img width="" height="" src="./png/7주차_결과화면.png"></img>
+  
   
