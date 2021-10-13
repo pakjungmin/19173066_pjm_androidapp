@@ -35,7 +35,7 @@
 ## 7주차
   - 결과화면
    <img width="" height="" src="./png/7주차_결과화면.png"></img>
-   -소스코드
-   <file:///C:/Users/OK/Desktop/7%EC%A3%BC%EC%B0%A8_%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.pdf>
+   -
+   [소스코드](file:///C:/Users/OK/Desktop/7%EC%A3%BC%EC%B0%A8_%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.pdf)
   
   
