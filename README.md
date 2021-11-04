@@ -38,7 +38,11 @@
    
 ## 9주차
   - 결과화면
-   <img width="" height="" src="./png/9주차_과제.png"></img>
+   <img width="100" height="150" src="./png/9주차_과제.png"></img>
+   
+## 10주차
+  - 결과화면
+   <img width="" height="" src="./png/10주차_1.png"></img><img width="" height="" src="./png10주차_2.png"></img>
    
   
   
