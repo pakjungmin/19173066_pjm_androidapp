@@ -50,7 +50,7 @@
    
 ## 12주차
   - 결과화면
-  - <img width="" height="" src="./png/12주차_과제.png"></img>
+   <img width="" height="" src="./png/12주차_과제.png"></img>
 
   
   
