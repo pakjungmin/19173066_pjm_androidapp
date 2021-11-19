@@ -46,7 +46,11 @@
    
 ## 11주차
   - 결과화면
-   <img width="" height="" src="./png/11주차_과제.png"></img>
+   <img width="100" height="150" src="./png/11주차_과제.png"></img>
+   
+## 12주차
+  - 결과화면
+  - <img width="" height="" src="./png/12주차_과제.png"></img>
 
   
   
